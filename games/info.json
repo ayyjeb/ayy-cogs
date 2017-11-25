@@ -1,0 +1,8 @@
+{
+    "AUTHOR" : "ayyjeb#0878",
+    "NAME" : "games",
+    "SHORT" : "Search for a game title on steam",
+    "INSTALL_MSG" : "Thank you for installing, run 'steamupdate' first to update the library.",
+    "DESCRIPTION" : "Search for a game title on steam",
+    "TAGS": ["Steam", "games", "search", "gaming"]
+}
